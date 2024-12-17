@@ -46,7 +46,7 @@
 右键以管理员运行`Set_This_Folder_CaseSensitive.bat`
 
    ```shell
-   已启用目录 D:\news\GameOfFate2_Project\story\SetCaseSensitive 的区分大小写属性。
+   已启用目录 xxxxxxxe 的区分大小写属性。
    ```
 
 输出以上内容则说明文件大小写敏感设置成功。
