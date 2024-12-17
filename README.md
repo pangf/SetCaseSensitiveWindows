@@ -1,11 +1,11 @@
 # 仓库大小写敏感设置
 
 众所周知，windows默认文件名是大小写不敏感的。本指南旨在帮助您将当前文件夹（仓库）设置为大小写敏感。
-   `Activate_WSL.ps1`
-   `Set_This_Folder_CaseSensitive.bat`
+`Activate_WSL.ps1`
+`Set_This_Folder_CaseSensitive.bat`
 
 如果你还需要设置git仓库大小写敏感
-   `Set_Git_CaseSensitive.sh`
+`Set_Git_CaseSensitive.sh`
 
 注意。运行Activate_WSL 会打开WSL。对于大部分用户，这不构成任何问题，但是你应该知道这件事。
 
